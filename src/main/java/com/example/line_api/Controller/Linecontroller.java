@@ -10,7 +10,7 @@ import java.time.format.DateTimeFormatter;
 
 @RestController
 @RequestMapping("/api")
-public class studentcontroller {
+public class Linecontroller {
     @Autowired
     private LineMessageService lineMessageService;
 
